@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "148170669948",
+    "firebase_url": "https://chatsystem-test-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatsystem-test",
+    "storage_bucket": "chatsystem-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148170669948:android:4dfd1a687184be0e302ef9",
+        "android_client_info": {
+          "package_name": "com.example.datashare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUx1W-tHmCxfGD4hX97LBwsx30I-bhn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148170669948:android:2daf300c4f3ce03f302ef9",
+        "android_client_info": {
+          "package_name": "com.example.nirogyaqr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUx1W-tHmCxfGD4hX97LBwsx30I-bhn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
